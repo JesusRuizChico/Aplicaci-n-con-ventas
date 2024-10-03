@@ -54,11 +54,11 @@ class Producto {
     }
 
     get id() {
-        return this._id
+        return this._id;
     }
 
     get descripcion(){
-        return this._descripcion
+        return this._descripcion;
     }
     
     getProducto() {
